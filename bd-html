@@ -1,0 +1,443 @@
+
+
+<!doctype html>
+<html>
+<head> 
+ <meta http-equiv="content-type" content="text/html; charset=GBK"/>
+ <meta name="data-spm" content="2013" />
+ <title>淘宝网 - 淘！我喜欢</title>
+ <link rel="stylesheet" type="text/css" href="//assets.alicdn.com/tbsp/tbsp.css?t=20090602.css"/>
+ <link rel="stylesheet" type="text/css" href="//www.taobao.com/home/css/error.css" />
+ <script>
+ if (!g_config) { 
+ var g_config = {};
+ }
+ </script>
+ <script charset="utf-8" src="//g.alicdn.com/??kissy/k/1.4.14/seed-min.js"></script>
+ <!-- from vmcommon -->
+ <link rel="stylesheet" href="//assets.alicdn.com/p/header/header-min.css?t=20110506.css" />
+ <script src="//assets.alicdn.com/p/header/header-v7-min.js?t=20110506.js"></script>
+   <link rel="stylesheet" href="//assets.alicdn.com/tbsp/tbsp.css?t=20090602.css" />
+  
+
+
+<!-- end vmcommon -->
+
+</head>
+<body data-spm="1"><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&udpid=&&yunid=&&trid=d3905e1615715763393662642e&asid=AQAAAAATWqxdPNmfDAAAAAAbaN+U/uygaA==&sidx=aBcA8zDO8vSficoMyAQ5PfyyaeKiAS75eDd8nxT7FQRbPi88YFV6RBtJq7h75vY9BBPcidn2ae6Z0Z9VTOfn8u8Xgeym6LEbUjtoUgMgMNGeM3vDPCMSulE132TfThiZBijl+WJTu6rPqk0z2e91UnXPV4alK/QUh3YN+v8vq7xLhSXQSlvFTCP9Ad3r1Pw/vtRmEnGe/7GyT1VEignZWua5UBiz+R07+YQigfhRgV37f/AlmNMfnZffnbf5dTT6zPB2mRUI/YbkfC4SFW3pRrU3m5EQxKhj93e1/EDKNcAyhwaSfde1jFnsfBFUcAKnATiONBUx3Oc3GM6Ronyg4Q==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script><script>
+if(!g_config.vdata){g_config.vdata={};}
+g_config.vdata.viewer={"id":"", "ct":"", "tnik":unescape(unescape(""))};
+g_config.vdata.sys={"now":1571576339000};
+</script>
+<script>
+if(!g_config.vdata){g_config.vdata={};}
+g_config.vdata.viewer={"id":"", "ct":"", "tnik":unescape(unescape(""))};
+g_config.vdata.sys={"now":1571576339000};
+</script>
+<script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&&yunid=&&trid=d3905e1615715763393662642e&asid=AQAAAAATWqxdCOhnLQAAAADZI1mpAi4ZLA==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+<div id="page" class="w950" >
+<!-- from vmcommon --> 
+<div id="header">
+   <div id="site-nav">
+   <p class="login-info">
+ <script>TB.Header.writeLoginInfo({"memberServer": "//member1.taobao.com", "loginServer": "https://login.taobao.com", redirectUrl : "", logoutUrl : ""});</script>
+</p>
+
+   <ul class="quick-menu">
+ <li class="home"><a href="//www.taobao.com/">淘宝网首页</a></li>
+ <li class="menu-item">
+  <div class="menu">
+    <a class="menu-hd" style="width:36px;" href="//guang.taobao.com" target="_top" rel="nofollow">我要逛<b></b></a>
+    <div class="menu-bd" style="width:68px;height:114px;line-height:1.7;">
+      <div class="menu-bd-panel" style="padding:8px 10px;">
+        <div>
+          <a href="//dongtai.taobao.com/hub/new_arrival.htm?scm=1046.1.7.1" target="_top" rel="nofollow">逛上新</a>
+          <a href="//dongtai.taobao.com/hub/promotion.htm?scm=1046.1.8.1" target="_top" rel="nofollow">逛优惠</a><br />
+          <a href="//yiqi.taobao.com/plus/group_square.htm" target="_top" rel="nofollow">小分队</a><br />
+          <a href="//www.taobao.com/go/act/sns/taoban_download1.php?channel_id=701354&tracelog=tbshouye" target="_top" rel="nofollow">用手机逛</a>
+          <a href="//list.taobao.com/browse/cat-0.htm?taobao_from=6" target="_top" rel="nofollow">商品分类</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li class="mytaobao menu-item">
+  <div class="menu">
+    <a class="menu-hd" href="//i.taobao.com/my_taobao.htm" target="_top" rel="nofollow">我的淘宝<b></b></a>
+    <div class="menu-bd" style="height: 75px;width:100px">
+      <div class="menu-bd-panel" id="myTaobaoPanel">
+        <div >
+          <a href="//trade.taobao.com/trade/itemlist/list_bought_items.htm" target="_top" rel="nofollow">已买到的宝贝</a>
+        </div>
+        <div >
+          <a href="//dongtai.taobao.com/index.htm?scm=1046.1.1.1" target="_top" rel="nofollow">店铺动态</a>
+        </div>
+        <div >
+          <a href="//i.taobao.com/feed/friend_feed.htm?tracelog=taobaoindexrsidenewfeed" target="_top" rel="nofollow">好友动态</a>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</li>
+
+<style>
+  #site-nav .seller-center .menu-hd{ width:48px;}
+  #site-nav .seller-center .menu-bd{ width: 94px; line-height:1.7;}
+  #site-nav .seller-center .menu-bd-panel{padding: 8px 10px;}
+</style>
+<li class="seller-center menu-item">
+  <div class="menu">
+    <a class="menu-hd" href="//mai.taobao.com/seller_admin.htm" target="_top" rel="nofollow">卖家中心<b></b></a>
+    <div class="menu-bd">
+      <div class="menu-bd-panel">
+        <div>
+          <a href="//trade.taobao.com/trade/itemlist/list_sold_items.htm" target="_top" rel="nofollow">已卖出的宝贝</a>
+          <a href="//sell.taobao.com/auction/goods/goods_on_sale.htm" target="_top" rel="nofollow">出售中的宝贝</a>
+          <a href="//fuwu.taobao.com/?tracelog=tbdd" target="_top" rel="nofollow">卖家服务市场</a>
+          <a href="//learn.taobao.com/user/xueyuanRedirect.htm?target=http://www.alibado.com" target="_top" rel="nofollow">卖家培训中心</a>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</li>
+<li class="service">
+  <a href="//service.taobao.com/support/main/service_center.htm" target="_top" rel="nofollow">联系客服</a>
+</li>
+<li class="cart">
+  <a href="//cart.taobao.com/my_cart.htm" target="_top" rel="nofollow">
+    <s>
+    </s>购物车
+  </a>
+  <b class="leftline"></b>
+  <b class="rightline"></b>
+</li>
+<li class="favorite menu-item">
+  <div class="menu">
+   <a class="menu-hd" style="width:36px;" href="//favorite.taobao.com/collect_list.htm?itemtype=0" target="_top" rel="nofollow">收藏夹<b></b></a>
+    <div class="menu-bd" style="width:82px;height:57px;line-height:1.7;">
+      <div class="menu-bd-panel" style="padding:8px 10px;">
+        <div>
+          <a href="//favorite.taobao.com/collect_list.htm?itemtype=1" target="_top" rel="nofollow">收藏的宝贝</a>
+          <a href="//favorite.taobao.com/collect_list.htm?itemtype=0" target="_top" rel="nofollow">收藏的店铺</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li class="services menu-item last">
+  <div id="J_Service" class="menu">
+    <a class="menu-hd" href="//www.taobao.com/sitemap.php?id=sitemap2" target="_top">网站导航<b></b></a>
+    <div id="J_ServicesContainer" class="menu-bd" style="width:202px;width:210px\9;_width:202px;height:337px;"></div>
+  </div>
+</li>
+ </ul>
+ </div>
+   <!-- -->
+   <h1 id="logo">
+	<a href="//www.taobao.com/" target="_top"><img alt="淘宝网 Taobao.com - 阿里巴巴旗下网站" src="//assets.alicdn.com/tbsp/img/header/logo.png" width="140" height="35" /></a>
+	<a href="/" class="sub-logo"  target="_top"></a>
+</h1>
+     <div class="wrap-box">
+     <div id="J_TSearch" class="tsearch tsearch-lite">
+<div id="J_TSearchTabs" class="tsearch-tabs">
+<ul>
+<li class="tsearch-tabs-active"><a target="_self" href="//list.taobao.com/browse/cat-0.htm">宝贝</a><s class="rc-tp-l"></s><s class="rc-tp-r"></s></li>
+<li><a target="_self" href="//search1.taobao.com/browse/browse_shop.htm">店铺</a><s class="rc-tp-l"></s><s class="rc-tp-r"></s></li>
+</ul>
+</div>
+<div class="tsearch-panel">
+<form id="J_TSearchForm" action="//s.taobao.com/search" name="search" target="_top">
+<div class="tsearch-panel-fields ">
+<label for="q">输入您想要的宝贝</label>
+<input name="q" id="q" autocomplete="off" accesskey="s" />
+<s class="rc-tp-l"></s>
+<s class="rc-bt-l"></s>
+<s class="tsearch-panel-fields-shadow"></s>
+</div>
+<button type="submit">搜索</button>
+<input type="hidden" name="commend" value="all" />
+<input type="hidden" name="ssid" value="s5-e" />
+<input type="hidden" name="search_type" value="item" />
+<input type="hidden" name="atype" value="" />
+<input type="hidden" name="filterFineness" value="" />
+</form>
+<s class="rc-tp-l"></s>
+<s class="rc-tp-r"></s>
+<s class="rc-bt-l"></s>
+<s class="rc-bt-r"></s>
+</div>
+</div>
+
+<style>
+#logo { padding-top: 26px; padding-bottom: 12px; }
+#header .wrap-box { margin-top: -67px; }
+</style>
+<!--tsearch end from vmcommon-->
+   </div>
+     </div>
+<script>TB.Header.init();</script>
+<!-- end vmcommon x -->
+<style type="text/css">
+ #error-box {
+ width: 320px;
+ padding: 80px 0 40px 100px;
+ margin: 0 auto;
+ background: url(//assets.alicdn.com/img/app/hesper/emotion_cry.gif) no-repeat 24px 90px;
+ }
+
+ #error-box h2 {
+ font: 24px / 2 'simhei', arial;
+ }
+
+ #error-box p {
+ font: 14px / 1.8 arial;
+ }
+
+ #error-box .redirect {
+ color: #999;
+ }
+
+ #error-box .redirect strong {
+ font: 18px / 1.8 arial;
+ }
+
+ #other-choices {
+ width: 744px;
+ margin: 0 auto 70px;
+ }
+
+ #other-choices .hd, #other-choices .bd {
+ background: none;
+ }
+
+ #other-choices .bd {
+ padding: 12px;
+ }
+
+ #other-choices .bd li {
+ list-style-type: decimal;
+ margin-left: 20px;
+ font: 14px / 1.8 arial;
+ }
+
+ #other-choices .ft .act li a {
+ color: #36c;
+ }
+
+ #other-choices .ft .act li a:hover {
+ color: #f60;
+ }
+</style>
+<div id="error-page-divider"></div>
+<div id="content">
+     <div id="error-notice">
+ <div class="ant-emotion">
+ <img src="//gd1.alicdn.com/tps/i1/T1CXucXf4vXXXXXXXX-51-63.png" alt="Search">
+ </div>
+ <div class="error-notice-text">
+ <div class="error-notice-hd">很抱歉，您查看的宝贝不存在，可能已下架或者被转移。</div>
+ <div class="error-notice-info"></div>
+ <div class="error-notice-advice">
+ <span class="you-can">您可以：</span>
+ <ol>
+ <li>该宝贝可能已经下架，您可以联系掌柜找找宝贝。</li>
+ <li>在顶部搜索框重新输入关键词搜索</li>
+ <li>为你推荐一些你可能喜欢的内容，将在<span id="J_ShowDiv" style="color:red">15</span>秒后自动跳转</li>
+ </ol></div>
+ </div>
+ </div>
+ <script>
+ var time =1;
+ var i=15;
+ var redirectUrl = "http://ju.mmstat.com/?url=http://love.taobao.com/guang/transfer.htm?src=item_auto";
+ var endParam = "&ad_id=&am_id=&cm_id=&pm_id=1501003529905770e524";
+ var sideUrl = "http://zhoubian.taobao.com/index.htm?src=detail";
+ var side = false;
+         var itemId, cid;
+ if ((itemId = location.search.match(/itemid=\d+/g))) {
+ redirectUrl += '&' + itemId[0];
+ itemId=itemId[0];
+ }
+ if ((cid = location.search.match(/catid=\d+/g))) {
+ redirectUrl += '&' + cid[0];
+ cid=cid[0];
+ }
+ function Redirect(){
+ if(i>0){
+ i=i-1;
+ var t=""+i;
+ document.getElementById('J_ShowDiv').innerHTML=t;
+ timer=setTimeout('Redirect()',time * 1000);
+ return;
+ }``
+ window.location = redirectUrl+endParam;
+ }
+ timer=setTimeout('Redirect()',time * 1000);
+ </script>
+     <div class="l-j-goods" style="margin-left: 120px;">
+ <div style="margin: 10px 0" id="p4p_ad">
+  <script>
+    (function() {
+      window._ent = []
+      window.P4P = {}
+      var args = "?sw=1&itemid=" + (window.p4p_itemIds || "")
+      var id = "2015_3/129317"
+      var name = "TB1RcVSIXXXXXaoXpXXdutXFXXX"
+      var uid = "c" + id.replace(/[^-a-z0-9]/ig, "-")
+      var config = P4P[id] = {}
+      config.pid = "420650_1007"
+      config.name = "tcmad"
+      document.createElement("tbcc")
+      document.getElementById("p4p_ad").innerHTML = '<tbcc id="tbcc-c-' + uid + '" style="display:none" data-args=?><tbcc></tbcc></tbcc>'
+      getScript("//acc.alicdn.com/tfscom/" + name + ".js", function() {
+        _ent.use("cc/show", function(cc) {
+          cc.show(id, uid)
+        })
+      })
+    })()
+    
+    function getScript(url, callback, charset) {
+      if(!url) {
+        return;
+      }
+      var head = document.head || document.getElementsByTagName("head")[0] || document.documentElement;
+      var script = document.createElement("script");
+      script.src = url;
+      script.async = true; // async load script , prevent block browser render(HTML5)
+      script.charset = charset || "utf-8";
+      // standard(onload) , IE(10-)(onreadystatechange)
+      script.onload = script.onreadystatechange = function () {
+        // standard || IE
+        if(!script.readyState || /loaded|complete/.test(script.readyState)) {
+          script.parentNode.removeChild(script); // auto remove script node
+          script.onload = script.onreadystatechange = null; // prevent memory leak
+          script = null;
+          if(callback && typeof callback == "function") {
+            callback();
+          }
+        }
+      }
+      head.appendChild(script);
+    }
+  </script>
+</div>
+ </div>
+   </div>
+<style type="text/css">
+#l-j-goods{padding-bottom:20px;width:715px;margin:0 auto;overflow:hidden;}
+#l-j-goods .l-j-goods-menu{height:30px;line-height:30px;color:#FFF;background-color:#DDD;margin-bottom:16px;background:url(//img.alicdn.com/tps/i2/T124LXXiJiXXaQzWja-5-30.png) 0 0 repeat-x;}
+#l-j-goods .l-j-goods-menu li{float:left;}
+#l-j-goods .l-j-goods-menu li a{float:left;color:#FFF;height:15px;line-height:15px;display:block;padding:0 10px;border-right:#FFF 1px solid;margin-top:8px;}
+#l-j-goods .l-j-goods-menu .l-j-title{font-size:14px;padding-left:10px;}
+#l-j-goods .l-j-goods-menu .l-j-last a{border-right:none;}
+#l-j-goods .l-j-goods-menu .l-j-more{float:right;}
+#l-j-goods .l-j-goods-menu .l-j-more a{border-right:none;}
+#l-j-goods .l-j-goods-list{width:750px;margin-left:-5px;}
+#l-j-goods .l-j-goods-item{display:inline;float:left;width:157px;height:157px;overflow:hidden;position:relative;margin:0 12px 24px 12px;}
+#l-j-goods .l-j-goods-item .l-j-img{display:block;width:157px;height:157px;}
+#l-j-goods .l-j-goods-item .l-j-img-bg{display:block;height:27px;width:157px;position:absolute;top:130px;left:0px;background-color:#FFF;filter:alpha(opacity=70);opacity: 0.7;}
+#l-j-goods .l-j-goods-item .l-j-img-title{display:block;height:27px;line-height:27px;padding-right:10px;width:147px;position:absolute;top:130px;left:0px;text-align:right;font-weight:bold;color:#333;}
+</style>
+<div id="l-j-goods">
+    <ul class="l-j-goods-menu clearfix">
+    
+                        <li class="l-j-title clearfix"><b>逛逛.热门精选</b></li>
+                                <li class="clearfix"><a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.1&cat_id=1&tag_id=10001&sort=0&type=0" >连衣裙</a></li>
+                                <li class="clearfix"><a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.2&cat_id=1&tag_id=10127&sort=0&type=1" >夏装</a></li>
+                                <li class="clearfix"><a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.3&cat_id=1&tag_id=10124&sort=0&type=0" >T恤</a></li>
+                                <li class="clearfix"><a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.4&cat_id=1&tag_id=10129&sort=0&type=0" >雪纺</a></li>
+                                <li class="clearfix"><a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.5&cat_id=2" >男装</a></li>
+                                <li class="clearfix"><a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.6&cat_id=6" >家居</a></li>
+                                <li class="clearfix"><a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.7&cat_id=9" >母婴</a></li>
+                                <li class="clearfix"><a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.8&cat_id=4" >包包</a></li>
+                                <li class="l-j-last clearfix"><a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.9&cat_id=3" >鞋子</a></li>
+                                <li class="l-j-more clearfix"><a href="//guang.taobao.com/?spm=5005.237290.252001.10" >更多</a></li>
+                
+    </ul>
+    <div class="l-j-goods-list clearfix">
+    
+                <div class="l-j-goods-item">
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.11&cat_id=1&tag_id=10187&sort=1&type=0" class="l-j-img" ><img src="//img.alicdn.com/tps/i1/T16qaEXC8hXXbOOZrM-157-157.jpg" alt="" /></a>
+            <span class="l-j-img-bg" ></span>
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.12&cat_id=1&tag_id=10187&sort=1&type=0" class="l-j-img-title" >东大门潮搭</a>
+        </div>
+                <div class="l-j-goods-item">
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.13&cat_id=1&tag_id=10001&sort=1&type=0" class="l-j-img" ><img src="//img.alicdn.com/tps/i3/T1mdmGXrRcXXbOOZrM-157-157.jpg" alt="" /></a>
+            <span class="l-j-img-bg" ></span>
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.14&cat_id=1&tag_id=10001&sort=1&type=0" class="l-j-img-title" >连衣裙热荐</a>
+        </div>
+                <div class="l-j-goods-item">
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.15&cat_id=1&tag_id=10162&sort=1&type=0" class="l-j-img" ><img src="//img.alicdn.com/tps/i4/T1gI9HXtBaXXbOOZrM-157-157.jpg" alt="" /></a>
+            <span class="l-j-img-bg" ></span>
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.16&cat_id=1&tag_id=10162&sort=1&type=0" class="l-j-img-title" >半身裙显瘦</a>
+        </div>
+                <div class="l-j-goods-item">
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.17&cat_id=1&tag_id=10135&sort=1&type=0" class="l-j-img" ><img src="//img.alicdn.com/tps/i1/T1JTyuXzpiXXbOOZrM-157-157.jpg" alt="" /></a>
+            <span class="l-j-img-bg" ></span>
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.18&cat_id=1&tag_id=10135&sort=1&type=0" class="l-j-img-title" >性感蕾丝</a>
+        </div>
+                <div class="l-j-goods-item">
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.19&cat_id=1&tag_id=10129&sort=1&type=0" class="l-j-img" ><img src="//img.alicdn.com/tps/i4/T16teGXsBcXXbOOZrM-157-157.jpg" alt="" /></a>
+            <span class="l-j-img-bg" ></span>
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.20&cat_id=1&tag_id=10129&sort=1&type=0" class="l-j-img-title" >修身雪纺衫</a>
+        </div>
+                <div class="l-j-goods-item">
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.21&cat_id=1&tag_id=10143&sort=1&type=0" class="l-j-img" ><img src="//img.alicdn.com/tps/i3/T12s1FXpxeXXbOOZrM-157-157.jpg" alt="" /></a>
+            <span class="l-j-img-bg" ></span>
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.22&cat_id=1&tag_id=10143&sort=1&type=0" class="l-j-img-title" >娇俏打底裤</a>
+        </div>
+                <div class="l-j-goods-item">
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.23&cat_id=3&tag_id=10138&sort=0&type=0" class="l-j-img" ><img src="//img.alicdn.com/tps/i1/T1ja5FXtpfXXaqQZrM-157-157.png" alt="" /></a>
+            <span class="l-j-img-bg" ></span>
+            <a href="//guang.taobao.com/square/index.htm?spm=5005.237290.252001.24&cat_id=3&tag_id=10138&sort=0&type=0" class="l-j-img-title" >入夏必败女鞋</a>
+        </div>
+                <div class="l-j-goods-item">
+            <a href="//guang.taobao.com/search/search_source.htm?spm=5005.237290.252001.25&cat_id=6&type=0&q=%C0%C1%C8%CB%C9%B3%B7%A2&sort=1" class="l-j-img" ><img src="//img.alicdn.com/tps/i3/T1LMKHXsJaXXaqQZrM-157-157.png" alt="" /></a>
+            <span class="l-j-img-bg" ></span>
+            <a href="//guang.taobao.com/search/search_source.htm?spm=5005.237290.252001.26&cat_id=6&type=0&q=%C0%C1%C8%CB%C9%B3%B7%A2&sort=1" class="l-j-img-title" >超软懒人沙发</a>
+        </div>
+            
+    </div>
+</div>
+
+<div id="footer">
+ <div class="foot-nav">
+ <a href="//www.taobao.com/about/index.php" target="_top">关于淘宝</a>
+ <a href="http://pro.taobao.com/" target="_top">广告服务</a>
+ <a href="//www.taobao.com/about/partners.php" target="_top">合作伙伴</a>
+ <a href="//service.taobao.com/support/help.htm" target="_top">帮助中心</a>
+ <a href="//www.taobao.com/about/join.php" target="_top">诚征英才</a>
+ <a href="//my.taobao.com/mytaobao/misc/contact.jhtml" target="_top">联系我们</a>
+ <a href="//www.taobao.com/sitemap.php" target="_top">网站地图</a>
+ <a href="//www.taobao.com/theme/hotbrands.php" target="_top">热门品牌</a>
+ <a href="//www.taobao.com/about/copyright.php" target="_top">版权说明</a>
+ <a href="//list.mall.taobao.com/promotion/activity/zhaoshang.htm">加入商城</a>
+ <a href="http://taoke.alimama.com/" target="_blank">淘宝客</a>
+ <a href="//trust.taobao.com" target="_blank">买卖安全</a>
+ </div>
+
+ <div class="ali-group" >
+ <a target="_blank" href="http://page.china.alibaba.com/shtml/about/ali_group1.shtml">阿里巴巴集团</a>：阿里巴巴网络 - <a target="_blank" href="http://china.alibaba.com/">中国站</a> <a target="_blank" href="http://www.alibaba.com/">国际站</a> <a target="_blank" href="http://www.alibaba.co.jp/">日文站</a> | 
+ <a target="_blank" href="//www.taobao.com/">淘宝网</a> | 
+ <a target="_blank" href="http://www.alipay.com/">支付宝</a> | 
+ <a target="_blank" href="http://www.yahoo.com.cn/">中国雅虎</a> | 
+ <a target="_blank" href="http://www.koubei.com/">口碑网</a> | 
+ <a target="_blank" href="http://www.alisoft.com">阿里软件</a> | 
+ <a target="_blank" href="http://www.alimama.com/">阿里妈妈</a> | 
+ <a target="_blank" href="http://www.aliresearch.com">集团研究中心</a>
+ </div>
+ <div id="copyright">Copyright &copy; 2003-2009 Taobao.com 版权所有</div>
+ <div id="server-num">detail011080247240.center.na610</div>
+</div>
+</div>
+</body>
+</html>
